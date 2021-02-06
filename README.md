@@ -4,7 +4,7 @@ Este es un proyecto basado en la idea familiar de ayudar a padres con limite de 
 
 __CREENTII__ ayuda en el refuerzo de aseosoria de tareas y complementa la educacion que imparte el colegio del niño.
 
-Puedes ver el proyecto en este [enlace](https://jhonatan121286.github.io/Actividad7/.)
+Puedes ver el proyecto en este [enlace](https://jhonatan121286.github.io/ACTIVIDAD_CREENTII/.)
 
 ## QUE  UTILIZAMOS PARA CREAR LA PAG WEB CREENTII
 
